@@ -1,0 +1,54 @@
+@_STATE,State,Medical,Recreational,Prohibited
+1,Alabama,,,1
+2,Alaska,1998,2014,
+4,Arizona,2010,,
+5,Arkansas,2016,,
+6,California,1996,2016,
+8,Colorado,2000,2012,
+9,Connecticut,2012,,
+10,Delaware,2011,,
+11,DC,,,
+12,Florida,2016,,
+13,Georgia,,,1
+15,Hawaii,2000,,
+16,Idaho,,,1
+17,Illinois,2013,2019,
+18,Indiana,,,1
+19,Iowa,,,1
+20,Kansas,,,1
+21,Kentucky,,,1
+22,Louisiana,2015,,
+23,Maine,1999,2016,
+24,Maryland,2014,,
+25,Massachusetts,,2016,
+26,Michigan,2008,2018,
+27,Minnesota,2014,,
+28,Mississippi,,,1
+29,Missouri,2018,,
+30,Montana,2004,,
+31,Nebraska,,,1
+32,Nevada,2000,2016,
+33,New Hampshire,2013,,
+34,New Jersey,2010,,
+35,New Mexico,2007,,
+36,New York,2014,,
+37,North Carolina,,,1
+38,North Dakota,2016,,
+39,Ohio,2016,,
+40,Oklahoma,2018,,
+41,Oregon,1998,2014,
+42,Pennsylvania,2016,,
+44,Rhode Island,2006,,
+45,South Carolina,,,1
+46,South Dakota,,,1
+47,Tennessee,,,1
+48,Texas,,,1
+49,Utah,2018,,
+50,Vermont,2004,2018,
+51,Virginia,,,1
+53,Washington,1998,2012,
+54,West Virginia,2017,,
+55,Wisconsin,,,1
+56,Wyoming,,,1
+66,Guam,,,
+72,Puerto Rico,,,

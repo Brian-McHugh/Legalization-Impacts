@@ -1,0 +1,54 @@
+@_STATE,State,MED_18,REC_18,BOTH_18,DK_RSN_18,RE_RSN_18
+1,Alabama,0,0,0,0,0
+2,Alaska,0,0,0,0,0
+4,Arizona,0,0,0,0,0
+5,Arkansas,0,0,0,0,0
+6,California,410,449,563,0,4
+8,Colorado,0,0,0,0,0
+9,Connecticut,0,0,0,0,0
+10,Delaware,0,0,0,0,0
+11,DC,0,0,0,0,0
+12,Florida,333,311,339,4,8
+13,Georgia,0,0,0,0,0
+15,Hawaii,0,0,0,0,0
+16,Idaho,87,83,76,0,1
+17,Illinois,0,0,0,0,0
+18,Indianna,0,0,0,0,0
+19,Iowa,0,0,0,0,0
+20,Kansas,0,0,0,0,0
+21,Kentucky,0,0,0,0,0
+22,Louisiana,0,0,0,0,0
+23,Maine,0,0,0,0,0
+24,Maryland,239,272,305,0,1
+25,Massachusetts,0,0,0,0,0
+26,Michigan,0,0,0,0,0
+27,Minnesota,253,498,370,7,4
+28,Mississippi,0,0,0,0,0
+29,Missouri,0,0,0,0,0
+30,Montana,230,125,143,3,3
+31,Nebraska,0,0,0,0,0
+32,Nevada,0,0,0,0,0
+33,New Hampshire,103,111,118,3,2
+34,New Jersey,0,0,0,0,0
+35,New Mexico,0,0,0,0,0
+36,New York,0,0,0,0,0
+37,North Carolina,0,0,0,0,0
+38,North Dakota,69,79,71,1,1
+39,Ohio,213,220,235,5,2
+40,Oklahoma,0,0,0,0,0
+41,Oregon,0,0,0,0,0
+42,Pennsylvania,0,0,0,0,0
+44,Rhode Island,0,0,0,0,0
+45,South Carolina,129,196,134,2,1
+46,South Dakota,0,0,0,0,0
+47,Tennessee,81,114,91,1,4
+48,Texas,0,0,0,0,0
+49,Utah,0,0,0,0,0
+50,Vermont,0,0,0,0,0
+51,Virginia,0,0,0,0,0
+53,Washington,0,0,0,0,0
+54,West Virginia,108,60,78,1,0
+55,Wisconsin,0,0,0,0,0
+56,Wyoming,59,79,99,0,1
+66,Guam,19,32,15,0,2
+72,Puerto Rico,82,89,22,0,0
