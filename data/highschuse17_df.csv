@@ -1,0 +1,54 @@
+StateID,State,highsch_everuse_pct,highsch_tried13_pct,Medical,Recreational,Prohibited
+1,Alabama,,,,,1
+2,Alaska,41.5,10.7,1998,2014,
+4,Arizona,,7.4,2010,,
+5,Arkansas,31,10.6,2016,,
+6,California,37.7,6.6,1996,2016,
+8,Colorado,35.5,5.9,2000,2012,
+9,Connecticut,34.5,4.4,2012,,
+10,Delaware,44.1,7.4,2011,,
+11,DC,,,,,
+12,Florida,34.5,7.1,2016,,
+13,Georgia,,,,,1
+15,Hawaii,,9.1,2000,,
+16,Idaho,30,6,,,1
+17,Illinois,34.2,6.4,2013,2019,
+18,Indianna,,,,,1
+19,Iowa,26.5,5.1,,,1
+20,Kansas,26.1,4.4,,,1
+21,Kentucky,32.1,7.4,,,1
+22,Louisiana,36.7,9.4,2015,,
+23,Maine,32.2,6.5,1999,2016,
+24,Maryland,31.4,7.3,2014,,
+25,Massachusetts,37.9,4.4,,2016,
+26,Michigan,41.4,8.6,2008,2018,
+27,Minnesota,,,2014,,
+28,Mississippi,,,,,1
+29,Missouri,,,2018,,
+30,Montana,36.7,7,2004,,
+31,Nebraska,25.4,5.3,,,1
+32,Nevada,37.2,7.9,2000,2016,
+33,New Hampshire,,5.3,2013,,
+34,New Jersey,,,2010,,
+35,New Mexico,,15.7,2007,,
+36,New York,,5.7,2014,,
+37,North Carolina,36.5,6.5,,,1
+38,North Dakota,,5.6,2016,,
+39,Ohio,,,2016,,
+40,Oklahoma,33.4,6.8,2018,,
+41,Oregon,,,1998,2014,
+42,Pennsylvania,33.4,5.8,2016,,
+44,Rhode Island,36.9,7.1,2006,,
+45,South Carolina,35.5,7.3,,,1
+46,South Dakota,,,,,1
+47,Tennessee,33.8,7.1,,,1
+48,Texas,34.4,7.9,,,1
+49,Utah,16.6,4.1,2018,,
+50,Vermont,,6,2004,2018,
+51,Virginia,,5.5,,,1
+53,Washington,,,1998,2012,
+54,West Virginia,35.1,8.8,2017,,
+55,Wisconsin,30.2,5.4,,,1
+56,Wyoming,,,,,1
+66,Guam,,,,,
+72,Puerto Rico,,,,,

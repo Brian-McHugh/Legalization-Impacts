@@ -1,0 +1,54 @@
+@_STATE,State_x,GENHLTH_18,State_y,Medical,Recreational,Prohibited
+1,Alabama,2.7965485919999997,Alabama,,,1.0
+2,Alaska,2.525743292,Alaska,1998.0,2014.0,
+4,Arizona,2.639634071,Arizona,2010.0,,
+5,Arkansas,2.9253731339999995,Arkansas,2016.0,,
+6,California,2.564141287,California,1996.0,2016.0,
+8,Colorado,2.459152714,Colorado,2000.0,2012.0,
+9,Connecticut,2.3968624519999997,Connecticut,2012.0,,
+10,Delaware,2.63271546,Delaware,2011.0,,
+11,DC,2.417329998,DC,,,
+12,Florida,2.6852775230000003,Florida,2016.0,,
+13,Georgia,2.6438473940000002,Georgia,,,1.0
+15,Hawaii,2.525503101,Hawaii,2000.0,,
+16,Idaho,2.567099567,Idaho,,,1.0
+17,Illinois,2.557503771,Illinois,2013.0,2019.0,
+18,Indianna,2.71871714,Indiana,,,1.0
+19,Iowa,2.511011285,Iowa,,,1.0
+20,Kansas,2.56800961,Kansas,,,1.0
+21,Kentucky,2.839143659,Kentucky,,,1.0
+22,Louisiana,2.68604878,Louisiana,2015.0,,
+23,Maine,2.5859994530000003,Maine,1999.0,2016.0,
+24,Maryland,2.55106577,Maryland,2014.0,,
+25,Massachusetts,2.428100165,Massachusetts,,2016.0,
+26,Michigan,2.615675257,Michigan,2008.0,2018.0,
+27,Minnesota,2.433019423,Minnesota,2014.0,,
+28,Mississippi,2.895601575,Mississippi,,,1.0
+29,Missouri,2.746268657,Missouri,2018.0,,
+30,Montana,2.5780346819999997,Montana,2004.0,,
+31,Nebraska,2.532253656,Nebraska,,,1.0
+32,Nevada,2.672563625,Nevada,2000.0,2016.0,
+33,New Hampshire,2.475684155,New Hampshire,2013.0,,
+34,New Jersey,2.518770227,New Jersey,2010.0,,
+35,New Mexico,2.691047222,New Mexico,2007.0,,
+36,New York,2.5672267730000002,New York,2014.0,,
+37,North Carolina,2.645379573,North Carolina,,,1.0
+38,North Dakota,2.577730345,North Dakota,2016.0,,
+39,Ohio,2.6973282139999997,Ohio,2016.0,,
+40,Oklahoma,2.7338663619999997,Oklahoma,2018.0,,
+41,Oregon,2.572653885,Oregon,1998.0,2014.0,
+42,Pennsylvania,2.584097859,Pennsylvania,2016.0,,
+44,Rhode Island,2.541287676,Rhode Island,2006.0,,
+45,South Carolina,2.709305543,South Carolina,,,1.0
+46,South Dakota,2.577106742,South Dakota,,,1.0
+47,Tennessee,2.78372093,Tennessee,,,1.0
+48,Texas,2.680306677,Texas,,,1.0
+49,Utah,2.463978037,Utah,2018.0,,
+50,Vermont,2.444987775,Vermont,2004.0,2018.0,
+51,Virginia,2.5747505090000002,Virginia,,,1.0
+53,Washington,2.545579268,Washington,1998.0,2012.0,
+54,West Virginia,2.86134368,West Virginia,2017.0,,
+55,Wisconsin,2.5712570059999997,Wisconsin,,,1.0
+56,Wyoming,2.5510981619999997,Wyoming,,,1.0
+66,Guam,2.8096107060000004,Guam,,,
+72,Puerto Rico,2.970472847,Puerto Rico,,,
