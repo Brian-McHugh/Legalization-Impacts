@@ -19,6 +19,7 @@ app = Flask(__name__)
 #################################################
 
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///Legalization_data.sqlite"
+
 db = SQLAlchemy(app)
 
 # reflect an existing database into a new model
@@ -37,8 +38,8 @@ def index():
     return render_template("index.html")
 
 
-@app.route("/names")
-def names():
+@app.route("/state_names")
+def state_names():
     """Return a list of sample names."""
 
     # Use Pandas to perform the sql query
